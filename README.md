@@ -6,5 +6,5 @@
     <li>Desenvolvimento Web</li>
   </ul>
 <h2>Redes sociais:</h2>
-  <a href="https://www.linkedin.com/in/wanderaquino/">Linkedin</a>
-  <a href="https://twitter.com/wander_a_cruz">Twitter</a>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wanderaquino/)](https://www.linkedin.com/in/wanderaquino/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/wander_a_cruz)](https://twitter.com/wander_a_cruz)
