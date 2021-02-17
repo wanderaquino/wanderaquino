@@ -6,5 +6,5 @@
     <li>Desenvolvimento Web</li>
   </ul>
 <h2>Redes sociais:</h2>
-  <a href="https://www.linkedin.com/in/wanderaquino/"></a>
-  <a href="https://twitter.com/wander_a_cruz"></a>
+  <a href="https://www.linkedin.com/in/wanderaquino/">Linkedin</a>
+  <a href="https://twitter.com/wander_a_cruz">Twitter</a>
