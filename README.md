@@ -1,9 +1,12 @@
-# Opa! Cê tá bom? Wander Aquino na área!
+# Sobre:
 
-## Interesses
-* Tecnologia
-* Agilidade
-* Desenvolvimento Web
+Um amante de tecnologia, que busca aprendizado contínuo e novos desafios sempre. Atualmente com foco no desenvolvimento frontend.
+
+Gosto de aprender e estudar conteúdos voltados para:
+Qualidade de software
+Desenvolvimento Web
+Agilidade
+DevOps
 
 ## Redes sociais
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wanderaquino/)](https://www.linkedin.com/in/wanderaquino/)
